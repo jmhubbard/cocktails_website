@@ -1,1 +1,1 @@
-# educative_io_sample_project
+The frontend for the cocktails recipie page.
